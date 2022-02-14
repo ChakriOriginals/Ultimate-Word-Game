@@ -2,7 +2,7 @@
 
 WELCOME TO THE UTIMATE WORD GAME !! 
  Rules are : 
- -Enter any 5 letter word with CAPS ON!! 
+ - Enter any 5 letter word with CAPS ON!! 
  - If Correct alphabet is placed in the correct position then Code is 1 
  - Else if correct alphabet at wrong position then the Code is 0. 
  - If the alphabet is not present in the word then the Code is -1 
