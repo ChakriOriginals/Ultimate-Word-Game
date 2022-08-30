@@ -17,7 +17,6 @@ for i in range(len(Mylist)):
     Mylist[i] = Mylist[i].upper()
 
 GameWord = random.choice(Mylist)
-#print(GameWord)
 
 GuessWord = input("Enter your guess word here: ")
 print("You entered: ",GuessWord)
@@ -31,7 +30,6 @@ del GameList[0]
 GuessList=[]
 for y in GuessWord:
     GuessList.extend(ord(m) for m in y)
-#print("GuessList",GuessList)
 
 WordLists = []
 FinalList = [0,0,0,0,0]
